@@ -1,2 +1,2 @@
-# flask-docs-online-demo
+# flask-docs-demo
 Flask-Docs online demo
